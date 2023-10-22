@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+body {
+    background:#DDFFDD;
+    color: #002200;
+    margin-left: 400px;
+    margin-right:400px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+div {
+    align-items: center;
+}
+.s {
+    size: 200%;
+}
